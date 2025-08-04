@@ -128,24 +128,3 @@ Sends email/SMS to user with order details.
 Aditya Bedi
 Backend Engineer | Kafka | Spring Boot | Microservices
 LinkedIn • GitHub
-
-⭐ Contributing
-Contributions, issues, and suggestions are welcome!
-Please open a PR or issue if you have feedback or features to suggest.
-
-📄 License
-MIT License — Feel free to use, improve, and share!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want:
-- A version with badges (build, license, etc.)
-- Swagger UI setup for API documentation
-- A Docker Compose file to manage all services
-- A markdown version exported to PDF
-
-Would you like me to generate the README as a downloadable `.md` file?
